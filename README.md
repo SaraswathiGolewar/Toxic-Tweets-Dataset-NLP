@@ -1,6 +1,6 @@
 # Toxic-Tweets-Dataset-NLP
 # Problem Statement
-The given dataset is a collection of Tweets. All the tweets are labelled as Toxic:0 and Non-Toxic:0. We have to apply the NLP methods and apply machine learning algorithms on theses models and produce the metrics for these particular models.
+The given dataset is a collection of Tweets. All the tweets are labelled as Toxic:1 and Non-Toxic:0. We have to apply the NLP methods and machine learning algorithms on the given  models(BoW and TF-IDF) and produce the metrics to making decisions based on the comprehensive evaluation.
 
 # Libraries Used in Python
 1.pandas
